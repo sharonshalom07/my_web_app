@@ -31,7 +31,7 @@ pipeline {
                     )
                 ],
                 contextPath: 'my-webapp',
-                war: 'target/target/*.war'
+                war: 'target/*.war'
             }
         }
     }
